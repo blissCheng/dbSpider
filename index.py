@@ -44,14 +44,16 @@ def getBook(tag, start):
   req = request.Request('https://book.douban.com/tag/%s?start=%s&type=T' % (parse.quote(tag), str(start)))
   # 添加请求头
   req.add_header('User-Agent', UserAgents[start % len(UserAgents)])
+
+  # 防止网络连接超时等异常操作
   try:
     with request.urlopen(req, timeout=60) as bookList:
       data = bookList.read().decode('utf-8')
 
   except:
     print('查询接口异常: 重新开始请求标签 %s start %s' % (tag, start))
+    # 回退请求， 重新赋值给data
     data = getBook(tag, start)
-      
 
   return data
 
@@ -160,7 +162,6 @@ class MyBookHTMLParser(HTMLParser):
         }
   def handle_data(self, data):
     if re.sub(formatNull, '', data) == '没有找到符合条件的图书':
-      print('开始切换标签')
       self.cutItem = True
     # 获取书名
     if self.h2_text:
@@ -226,9 +227,10 @@ def startSpider():
   for x in tagList:
     for n in tagList[x]:
       # 每一个新标签开始时清空结果集
-      # 命名为全局变量，虽然已声明全局变量results，但是如果在这里初始化results, python会认为你创建了一个局部变量
+      # 命名为全局变量，虽然已声明全局变量results，但是如果在这里初始化results, python会认为你创建了一个局部变量（比js还坑）
       global results
       results = []
+      print('开始切换标签')
       if ARGTAG and ARGTAG == n:
         # 如果从某一节点开始爬取
         bookSpider(x, n)

@@ -1,0 +1,1477 @@
+[
+  {
+    "name": "NeuralNetworksandDeepLearning",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s28855545.jpg",
+    "msg": "2016-1",
+    "allStar": "allstar5",
+    "grade": "9.5",
+    "comment_num": "137",
+    "introduction": "http://neuralnetworksanddeeplearning.com/"
+  },
+  {
+    "name": "神经网络设计",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s1581911.jpg",
+    "msg": "戴葵/戴葵、李伯民审校/机械工业出版社/2007-09-01/49.0",
+    "allStar": "allstar4",
+    "grade": "8.9",
+    "comment_num": "144"
+  },
+  {
+    "name": "神经网络与机器学习（原书第3版）",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s4615363.jpg",
+    "msg": "[加]SimonHaykin/申富饶、徐烨、郑俊、晁静/机械工业出版社/2011-3/79.00元",
+    "allStar": "allstar4",
+    "grade": "8.2",
+    "comment_num": "108",
+    "introduction": "神经网络是计算智能和机器学习的重要分支，在诸多领域都取得了很大的成功。在众多神经网络著作中，影响最为广泛的是SimonHaykin的《神经网络原理》（第3..."
+  },
+  {
+    "name": "意识的宇宙:物质如何转变为精神",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s1663944.jpg",
+    "msg": "[美]杰拉尔德·埃德尔曼、[美]朱利欧·托诺尼/顾凡及/上海科学技术出版社/2004-1/27.00元",
+    "allStar": "allstar4",
+    "grade": "8.3",
+    "comment_num": "177",
+    "introduction": "本书对意识理论进行全面研究，建立在近代神经科学基础上、致力于对意识的产生、及人们对意识的认识如何帮助其“把严格的科学描述与人类知识和经验的宽广领域联系起来”..."
+  },
+  {
+    "name": "NeuralNetworksforPatternRecognition",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s4509652.jpg",
+    "msg": "ChristopherM.Bishop/OxfordUniversityPress/1996-1-18/USD105.00",
+    "allStar": "allstar4",
+    "grade": "8.8",
+    "comment_num": "38",
+    "introduction": "Thisbookprovidesthefirstcomprehensivetreatmentoffeed-forwardneuralne..."
+  },
+  {
+    "name": "MATLAB神经网络30个案例分析",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s4400292.jpg",
+    "msg": "MATLAB中文论坛/北京航空航天大学/2010-4/39.00元",
+    "allStar": "allstar4",
+    "grade": "7.8",
+    "comment_num": "84",
+    "introduction": "本书是MATLAB中文论坛神经网络版块数千个帖子的总结，充分强调“案例实用性、程序可模仿性”。所有案例均来自于论坛会员的切身需求，保证每一个案例都与实际课题..."
+  },
+  {
+    "name": "模式识别与神经网络",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s3949536.jpg",
+    "msg": "里普利/人民邮电/2009-6/69.00元",
+    "allStar": "allstar4",
+    "grade": "8.0",
+    "comment_num": "29",
+    "introduction": "《模式识别与神经网络(英文版)》是模式识别和神经网络方面的名著，讲述了模式识别所涉及的统计方法、神经网络和机器学习等分支。书的内容从介绍和例子开始，主要涵盖..."
+  },
+  {
+    "name": "神经网络与深度学习",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s28827659.jpg",
+    "msg": "吴岸城/电子工业出版社/2016-6/59",
+    "allStar": "allstar3",
+    "grade": "5.8",
+    "comment_num": "97",
+    "introduction": "随着AlphaGo与李世石大战的落幕，人工智能成为话题焦点。AlphaGo背后的工作原理\"深度学习\"也跳入大众的视野。什么是深度学习，什么是神经网络，为何一..."
+  },
+  {
+    "name": "神经网络在应用科学和工程中的应用:从基本原理到复杂的模式识别",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s4410591.jpg",
+    "msg": "萨马拉辛荷/2010-1/88.00元",
+    "comment_num": "10",
+    "introduction": "《神经网络在应用科学与工程中的应用:从基本原理到复杂的模式识别》为读者提供了神经网络方面简单但却系统的介绍。《神经网络在应用科学和工程中的应用从基本原理到..."
+  },
+  {
+    "name": "NeuralNetworks:TricksoftheTrade",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s27026851.jpg",
+    "msg": "GrégoireMontavon、GenevièveOrr、Klaus-RobertMüller/Springer/2013-11-6/USD131.00",
+    "allStar": "allstar0",
+    "comment_num": "10",
+    "introduction": "Thetwentylastyearshavebeenmarkedbyanincreaseinavailabledataandco..."
+  },
+  {
+    "name": "神经计算原理",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s2527276.jpg",
+    "msg": "哈姆/机械工业出版社/2007-5/59.00元",
+    "allStar": "allstar3",
+    "grade": "7.4",
+    "comment_num": "26",
+    "introduction": "《神经计算原理》比较系统全面地介绍了人工神经网络的理论和实际应用，特别在神经网络模型和工程应用方面有极为深入的分析和讲解。全书不仅深入分析神经网络的基本概念..."
+  },
+  {
+    "name": "神经网络模型及其MATLAB仿真程序设计",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s8979878.jpg",
+    "msg": "周开利康耀红/清华大学出版社/2005-7/29.00元",
+    "allStar": "allstar4",
+    "grade": "8.2",
+    "comment_num": "25",
+    "introduction": "《神经网络模型及其MATLAB仿真程序设计》重点介绍了MATLAB6.5神经网络工具箱中各种神经网络模型及基本理论，以及各种神经网络模型的MATLAB仿真..."
+  },
+  {
+    "name": "Embodimentandtheinnerlife:CognitionandConsciousnessintheSpaceofPossibleMinds",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s29642006.jpg",
+    "msg": "MurrayShanahan/OxfordUniversityPress/2010-8-20/USD66.00",
+    "comment_num": "10",
+    "introduction": "TounderstandthemindanditsplaceinNatureisoneofthegreatintellectua..."
+  },
+  {
+    "name": "MATLAB神经网络43个案例分析",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s28070570.jpg",
+    "msg": "王小川、史峰、郁磊、李洋/北京航空航天大学出版社/2013-8-1/CNY48.00",
+    "allStar": "allstar0",
+    "comment_num": "11"
+  },
+  {
+    "name": "神经网络:AClassroomApproach",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s10310981.jpg",
+    "msg": "[印度]SatishKumar/清华大学出版社/2006-8/73.00元",
+    "allStar": "allstar0",
+    "comment_num": "26",
+    "introduction": "本书从理论和实际应用出发，全面系统地介绍神经网络的基本模型、基本方法和基本技术，涵盖了神经系统科学、统计模式识别、支撑向量机、模糊系统、软件计算与动态系统等..."
+  },
+  {
+    "name": "LearningDeepArchitecturesforAI",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s21095441.jpg",
+    "msg": "Bengio,Yoshua/695.00元",
+    "allStar": "allstar4",
+    "grade": "8.7",
+    "comment_num": "31",
+    "introduction": "Theoreticalresultssuggestthatinordertolearnthekindofcomplicatedfun..."
+  },
+  {
+    "name": "The\"NonlinearWorkbook",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s29916220.jpg",
+    "msg": "Willi-HansSteeb/WorldScientificPublishingCoPteLtd/1999-8-19/GBP65.00",
+    "allStar": "allstar0",
+    "comment_num": "12"
+  },
+  {
+    "name": "MATLAB神经网络原理与实例精解",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s26166312.jpg",
+    "msg": "陈明/清华大学出版社/2013-2/69.00元",
+    "allStar": "allstar0",
+    "comment_num": "10",
+    "introduction": "陈明等编著的《MATLAB神经网络原理与实例精解(附光盘)》结合科研和高校教学的相关课程，全面、系统、详细地介绍了MATLAB神经网络的原理及应用，并给出了..."
+  },
+  {
+    "name": "Matlab神经网络与应用",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s1167184.jpg",
+    "msg": "董长虹/国防工业出版社/2005-1-1/29.00",
+    "allStar": "allstar0",
+    "comment_num": "28",
+    "introduction": "Matlab语言是Mathworks公司推出的一套高性能计算机编程语言，集数学计算、图形显示、语言设计于一体，其强大的扩展功能为用户提供了广阔的应用空间。它..."
+  },
+  {
+    "name": "脑的高级功能与神经网络",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s4617421.jpg",
+    "msg": "黄秉宪/科学出版社/2000-05-01/20.00元",
+    "comment_num": "10",
+    "introduction": "本书是一本论述脑的高级功能，如感知、记忆、思维过程的神经网络的专著。全书以建立神经网络模型为主线，介绍了脑的结构、生理及信息处理的基本知识，并在此基础上对记..."
+  },
+  {
+    "name": "SupervisedSequenceLabellingwithRecurrentNeuralNetworks2011",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s8907801.jpg",
+    "msg": "Graves,Alex",
+    "comment_num": "10"
+  },
+  {
+    "name": "连接组：造就独一无二的你",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s28342396.jpg",
+    "msg": "[美]承现峻/孙天齐/清华大学出版社/2016-1/45",
+    "allStar": "allstar4",
+    "grade": "8.5",
+    "comment_num": "209",
+    "introduction": "★《华尔街日报》2012年度十佳非虚构图书★亚马逊网站2012年编辑选择之百佳图书★《出版人周刊》2012年春季十佳科学类图书【内容简介】基因组让你..."
+  },
+  {
+    "name": "人工智能:智能系统指南",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s5753849.jpg",
+    "msg": "耐格纳威斯基/顾力栩/机械工业出版社/2007-4/36.00元",
+    "allStar": "allstar4",
+    "grade": "7.9",
+    "comment_num": "67",
+    "introduction": "人工智能经常被人们认为是计算机科学中的一门高度复杂甚至令人生畏的学科。长期以来人工智能方面的书籍往往包含复杂矩阵代数和微分方程。本书形成于作者多年来给没有多..."
+  },
+  {
+    "name": "TutorialonNeuralSystemsModeling",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s29899808.jpg",
+    "msg": "ThomasJ.Anastasio/OUPUSA/2009-10-9/GBP66.99",
+    "comment_num": "10"
+  },
+  {
+    "name": "神经网络理论与MATLAB7实现",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s1401913.jpg",
+    "msg": "飞思科技产品研发中心//2005-3-1/29.00元",
+    "allStar": "allstar3",
+    "grade": "7.1",
+    "comment_num": "44",
+    "introduction": "●MATB7和神经网络的基础知识●各类型神经网络工具箱函数及实例●各类型神经网络理论及MATLAB实现●神经网络控制理论及应用设计..."
+  },
+  {
+    "name": "人工神经网络原理及仿真实例",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s5862317.jpg",
+    "msg": "高隽/机械工业出版社/2003-8/23.00元",
+    "allStar": "allstar0",
+    "comment_num": "26",
+    "introduction": "《21世纪高等院校电气信息类系列教材•人工神经网络原理及仿真实例》以神经网络结构为主线，以学习算法为副线，详细介绍了神经网络结构和算法步骤，目的是使读者易看..."
+  },
+  {
+    "name": "深度学习:方法及应用",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s28806669.jpg",
+    "msg": "邓力、俞栋/谢磊/机械工业出版社/2016-3-1/25.40元",
+    "allStar": "allstar3",
+    "grade": "5.8",
+    "comment_num": "33",
+    "introduction": "序言译者序深度学习是目前人工智能、机器学习领域异常火热的研究方向，受到了学术界和工业界的高度关注，被《麻省理工学院技术评论》（MITTechnolog..."
+  },
+  {
+    "name": "人工神经网络教程",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s5803839.jpg",
+    "msg": "韩力群/北京邮电大学出版社/2006-12/36.00元",
+    "allStar": "allstar3",
+    "grade": "7.3",
+    "comment_num": "14",
+    "introduction": "《人工神经网络教程》系统地论述了人工神经网络的主要理论、设计基础及应用实例，旨在使读者了解神经网络的发展背景和研究对象，理解和熟悉它的基本原理和主要应用，掌..."
+  },
+  {
+    "name": "NeuralNetworkDesign",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s28460346.jpg",
+    "msg": "MartinTHagan、HowardBDemuth、MarkHBeale、OrlandoDeJesús/MartinHagan/2014-9-1/USD30.00",
+    "comment_num": "10"
+  },
+  {
+    "name": "TheComputationalBrain",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s3584517.jpg",
+    "msg": "PatriciaChurchland、TerrenceJ.Sejnowski/TheMITPress/1992-6-12/USD87.50",
+    "comment_num": "10",
+    "introduction": "Howdogroupsofneuronsinteracttoenabletheorganismtosee,decide,andm..."
+  },
+  {
+    "name": "精通MATLAB神经网络",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s4669050.jpg",
+    "msg": "朱凯/2010-1/59.00元",
+    "allStar": "allstar4",
+    "grade": "7.6",
+    "comment_num": "18",
+    "introduction": "《精通MATLAB神经网络》由MATLAB入门篇、神经网络提高篇和神经网络综合实战篇3篇组成。MATLAB入门篇主要介绍MATLAB软件、基本运算、图形绘制..."
+  },
+  {
+    "name": "神经网络理论与MATLABR2007实现",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s24397223.jpg",
+    "msg": "葛哲学/电子工业/2007-9/29.80元",
+    "allStar": "allstar4",
+    "grade": "7.9",
+    "comment_num": "18",
+    "introduction": "《神经网络理论与MATLABR2007实现》是“MATLAB应用技术”系列丛书之一，以最新推出的MATLAB7中的神经网络工具箱4.0.3版本为基础。《..."
+  },
+  {
+    "name": "NeuralNetworksforAppliedSciencesandEngineering",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s24603756.jpg",
+    "msg": "Samarasinghe,Sandhya/CRCPrILlc/2006-9/$118.59",
+    "comment_num": "10",
+    "introduction": "Inresponsetotheexponentiallyincreasingneedtoanalyzevastamountsofda..."
+  },
+  {
+    "name": "数据挖掘",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s6795691.jpg",
+    "msg": "朱明/2008-11/52.00元",
+    "comment_num": "10",
+    "introduction": "《数据挖掘(第2版)》较全面系统地介绍了数据挖掘中常用和常见的数据挖掘方法，以及文本与视频数据挖掘方法。《数据挖掘(第2版)》的主要内容包括：数据挖掘基本知..."
+  },
+  {
+    "name": "深度学习：21天实战Caffe",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s28865185.jpg",
+    "msg": "赵永科/电子工业出版社/79",
+    "allStar": "allstar3",
+    "grade": "6.3",
+    "comment_num": "64",
+    "introduction": "《深度学习：21天实战Caffe》是一本深度学习入门读物。以目前已经大量用于线上系统的深度学习框架Caffe为例，由浅入深，从Caffe的配置、部署、使..."
+  },
+  {
+    "name": "深度学习:Caffe之经典模型详解与实战",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s29144064.jpg",
+    "msg": "乐毅、王斌/电子工业出版社/2016-12/79",
+    "allStar": "allstar2",
+    "grade": "4.1",
+    "comment_num": "24",
+    "introduction": "《深度学习——Caffe之经典模型详解与实战》首先介绍了深度学习相关的理论和主流的深度学习框架，然后从Caffe深度学习框架为切入点，介绍了Caffe的安装..."
+  },
+  {
+    "name": "Hands-OnMachineLearningwithScikit-LearnandTensorFlow:Concepts,Tools,andTechniquesforBuildingIntelligentSystems",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s28910563.jpg",
+    "msg": "AurélienGéron/O'ReillyMedia/2017-1-25/USD49.99",
+    "allStar": "allstar4",
+    "grade": "9.2",
+    "comment_num": "248"
+  },
+  {
+    "name": "信用评价与股市预测模型研究及应用",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s9983726.jpg",
+    "msg": "庞素琳/科学出版社/2005-8/32.0",
+    "comment_num": "10",
+    "introduction": "信用评价是上市公司财务困境预警研究的重要手段之一。本书介绍了肖当前国际上常用的三种信用评级建模方法：参数统计方法、非参数统计方法和神经网络方法，并详细介绍了..."
+  },
+  {
+    "name": "MATLAB神经网络超级学习手册",
+    "imgSrc": "https://img3.doubanio.com/f/shire/5522dd1f5b742d1e1394a17f44d590646b63871d/pics/book-default-lpic.gif",
+    "msg": "MATLAB技术联盟、刘冰、郭海霞/人民邮电出版社/2014-5",
+    "comment_num": "10",
+    "introduction": "《MATLAB神经网络超级学习手册》以新近推出的MATLABR2013a神经网络工具箱为基础，系统全面地介绍了神经网络的各种概念和应用。《MATLAB神经..."
+  },
+  {
+    "name": "神经网络",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s4410031.jpg",
+    "msg": "史忠植/高等教育出版社/2009-5/37.00元",
+    "comment_num": "10",
+    "introduction": "神经网络是通过对人脑或生物神经网络的抽象和建模，研究非程序的、适应性的、大脑风格的信息处理的本质和能力。它以脑科学和认知神经科学的研究成果为基础，拓展智能信..."
+  },
+  {
+    "name": "人工神经网络导论",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s1962254.jpg",
+    "msg": "蒋宗礼/高等教育出版社/2002-12/12.40元",
+    "allStar": "allstar3",
+    "grade": "7.1",
+    "comment_num": "39",
+    "introduction": "《人工神经网络导论》依照简明易懂、便于软件实现、鼓励探索的原则介绍人工神经网络。内容包括：智能系统描述模型，人工神经网络方法的特点；基本人工神经元模型，人工..."
+  },
+  {
+    "name": "人工神经网络与模拟进化计算",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s26674924.jpg",
+    "msg": "阎平凡/清华大学出版社/2005-9/49.00元",
+    "comment_num": "10",
+    "introduction": "《人工神经网络与模拟进化计算》较系统全面地讨论了人工神经网络与模拟进化计算的理论和工程应用，特别在学习理论和网络结构选择、动态神经网络、贝叶斯方法的应用以及..."
+  },
+  {
+    "name": "神经网络的综合基础",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s1409640.jpg",
+    "msg": "SimonHaykin/清华大学出版社/2001-10-1/78.00",
+    "comment_num": "10",
+    "introduction": ""
+  },
+  {
+    "name": "模糊控制·神经控制和智能控制论",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s10517360.jpg",
+    "msg": "李士勇/哈尔滨工业大学出版社/1998-9/42.00元",
+    "comment_num": "10",
+    "introduction": "《模糊控制•神经控制和智能控制论》面向21世纪智能控制学科前沿，以微机模拟智能实现智能控制为主线，从智能控制论的高度全面系统深入地介绍了模糊控制、神经控制和..."
+  },
+  {
+    "name": "MATLAB/Simulink建模与仿真实例精讲",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s11116883.jpg",
+    "msg": "张德丰/机械工业出版社/2010-1/46.00元",
+    "comment_num": "10",
+    "introduction": "《MATLAB/Simulink建模与仿真实例精讲》可作为广大在校本科生和研究生的学习用书，也可以作为广大科研人员、学者、工程技术人员的参考用书。全书共分9..."
+  },
+  {
+    "name": "视觉信息处理的脑机制",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s1027020.jpg",
+    "msg": "寿天德/上海科技教育出版社/1997-12/21.00",
+    "comment_num": "10",
+    "introduction": "内容提要视觉研究是脑科学或神经科学发展中一个比较系统、成熟的分支，特别是对视觉大脑皮层的研究方面。本书以较短的篇幅介绍了视觉信息处理脑机制方面的基本理论..."
+  },
+  {
+    "name": "人工神经网络理论、设计及应用",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s5771230.jpg",
+    "msg": "韩力群/化学工业/2007-7/29.80元",
+    "comment_num": "10",
+    "introduction": "《人工神经网络理论.设计及应用》系统地论述了人工神经网络的主要理论和设计基础，给出了大量应用实例，旨在使读者了解神经网络的发展背景和研究对象，理解和熟悉其基..."
+  },
+  {
+    "name": "细胞神经网络动力学",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s5820350.jpg",
+    "msg": "黄立宏/科学/2007-4/45.00元",
+    "comment_num": "10",
+    "introduction": "《细胞神经网络动力学》主要内容包括：细胞神经网络动力学是神经网络与动力系统交叉结合的一门新型学科，《细胞神经网络动力学》较详细地介绍了若干具有不同实际背景和..."
+  },
+  {
+    "name": "神经网络与教育:学习的艺术",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s28355066.jpg",
+    "msg": "[美]杨振寰/许晨、周立伟/北京理工大学出版社/2015-6-1",
+    "comment_num": "10",
+    "introduction": "《神经网络与教育——学习的艺术(附精灵火柴人的艺术)》以神经网络为载体和切入点，阐述了学习的艺术，即记忆的艺术、理解的艺术和创造性学习的艺术。一是记忆的艺术..."
+  },
+  {
+    "name": "人工神经网络建造",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s1286791.jpg",
+    "msg": "中国铁道出版社/1998-04/26.80",
+    "comment_num": "10",
+    "introduction": "内容简介人工神经网络是近年来再度兴起并得到迅速发展的前沿交叉学科。它涉及到多学科的基础理论、方法、计算应用等众多问题。围绕这些问题，国内外的许多学..."
+  },
+  {
+    "name": "RecurrentNeuralNetworksforPrediction",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s11151855.jpg",
+    "msg": "Mandic,DaniloP./Chambers,JonathonA./JohnWiley&SonsInc/2001-9/1042.00元",
+    "comment_num": "10",
+    "introduction": "Newtechnologiesinengineering,physicsandbiomedicinearedemandingincreas..."
+  },
+  {
+    "name": "MATLAB神经网络仿真与应用",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s1155313.jpg",
+    "msg": "闻新、李翔、周露、张宝伟/科学出版社/2003-7-1/31.00",
+    "comment_num": "10",
+    "introduction": "本书面向MATLAB6.X及其所搭配的神经网络工具箱，首先循序渐进地介绍了MATLAB6.X的主要功能、函数命令及一些使用技巧，并介绍了比较复杂的数值计..."
+  },
+  {
+    "name": "神经动力学模型方法和应用",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s3815238.jpg",
+    "msg": "阮炯顾凡及蔡志杰/科学出版社/2002-04-01/28.00元",
+    "comment_num": "10",
+    "introduction": "神经网络动力学是神经网络与动力学系统交叉结合的学科。本书着重阐述神经网络动力学模型的建立和各类模型研究的问题与方法。书中还介绍了神经动力学的生物背景与相关的..."
+  },
+  {
+    "name": "MATLAB神经网络应用设计/MATLAB语言应用系列",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s1582156.jpg",
+    "msg": "//1900-01-01/31.00元",
+    "comment_num": "10",
+    "introduction": ""
+  },
+  {
+    "name": "人工神经网络原理",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s6220501.jpg",
+    "msg": "马锐/机械工业/2010-9/25.00元",
+    "comment_num": "10",
+    "introduction": "《21世纪重点大学规划教材•人工神经网络原理》介绍了人工神经网络的基本理论，系统地阐述了六种典型的人工神经网络模型，即早期的感知机神经网络、自适应线性元件神..."
+  },
+  {
+    "name": "人工神经网络与盲信号处理",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s1098184.jpg",
+    "msg": "杨行峻/第1版(2003年1月1日)/2003-1-1/39.00",
+    "comment_num": "10",
+    "introduction": "《人工神经网络与盲信号处理》由清华大学出版社出版。"
+  },
+  {
+    "name": "ComputationalSimulationinEvolutionaryLinguistics:AStudyonLanguageEmergence",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s29626707.jpg",
+    "msg": "TaoGONG(龔濤)/Taiwan:AcademiaSinica/2009/NT$500／US$30",
+    "comment_num": "10",
+    "introduction": "本專著通過一個自行開發的多個體計算仿真模型來探索語言衍生中的一個關鍵問題，即語法能力是如何產生的。它是由天生的、人類所特有的能力決定的，還是從一些人與動物普..."
+  },
+  {
+    "name": "TheHandbookofBrainTheoryandNeuralNetworks:SecondEdition",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s7075358.jpg",
+    "msg": "Arbib,MichaelA.编/ABradfordBook/2002-11-15/USD225.00",
+    "comment_num": "10",
+    "introduction": "Dramaticallyupdatingandextendingthefirstedition,publishedin1995,the..."
+  },
+  {
+    "name": "MATLAB神经网络应用设计",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s3829419.jpg",
+    "msg": "张德丰/2009-1/39.00元",
+    "comment_num": "10",
+    "introduction": "《MATLAB神经网络应用设计》利用目前国际上流行的MATLAB环境，结合神经网络工具箱，在深入浅出地介绍人工神经网络中的各种典型网络以及训练过程的基础上，..."
+  },
+  {
+    "name": "神经计算科学",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s5660380.jpg",
+    "msg": "阮晓钢/国防工业出版社/2006-5/48.00元",
+    "comment_num": "10",
+    "introduction": "神经计算科学是人工智能的重要组成部分。神经计算科学是“神经”+“计算”的科学，是在细胞的水平上模拟脑结构和脑功能的科学，是关于人工神经系统或人工神..."
+  },
+  {
+    "name": "外汇汇率与国际原油价格波动预测",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s2819634.jpg",
+    "msg": "2006-6/27.00元",
+    "comment_num": "10"
+  },
+  {
+    "name": "MATLAB6.5辅助神经网络分析与设计",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s1939787.jpg",
+    "msg": "飞思科技产品研发中心/电子工业出版社/2003-1/29.00",
+    "comment_num": "10",
+    "introduction": "本书是在MATLAB6.5的神经网络工具箱V4.0.2基础上编写的。全书共13章，首先简要介绍了神经网络的发展及基本理论，包括前向型神经网络、反馈神经..."
+  },
+  {
+    "name": "神经计算智能基础",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s1448425.jpg",
+    "msg": "靳蕃/西南交通大学出版社/2000-01-01/20.00元",
+    "comment_num": 0,
+    "introduction": "本书面向21世纪智能科学发展的需要，首次在神经计算智能的领域内，仿效人类大脑高级智能活动的特征，将人工神经网络、模糊逻辑技术和进化计算等多种智能信息处理方法..."
+  },
+  {
+    "name": "神经网络控制",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s6458908.jpg",
+    "msg": "徐丽娜/2009-7/28.00元",
+    "comment_num": "10",
+    "introduction": "神经网络控制已发展成为“智能控制”的一个新的分支，属先进控制技术，为解决复杂的非线性、不确定、不确知系统的控制问题，开辟了一条新的途径。《神经网络控制(第3..."
+  },
+  {
+    "name": "MATLAB神经网络编程",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s8852694.jpg",
+    "msg": "张德丰/2011-12/49.80元",
+    "comment_num": "10",
+    "introduction": "《MATLAB神经网络编程》结合神经网络的概念、理论和应用，以MATLAB为平台，系统地介绍了神经网络工具箱中的前向型神经网络、局部型神经网络、反馈型神经网..."
+  },
+  {
+    "name": "神经网络",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s5824876.jpg",
+    "msg": "侯媛彬/西安电子/2007-8/26.00元",
+    "comment_num": "10",
+    "introduction": "《神经网络》的主要内容有：神经网络的概念，神经网络的分类与学习方法，前向神经网络模型及其算法，改进的BP网络及其控制、辨识建模，基于遗传算法的神经网络，基于..."
+  },
+  {
+    "name": "ObservedBrainDynamics",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s4360276.jpg",
+    "msg": "Mitra,ParthaP./Bokil,Hemant/2007-12/$76.78",
+    "comment_num": "10",
+    "introduction": "Thebiomedicalscienceshaverecentlyundergonerevolutionarychange,duetot..."
+  },
+  {
+    "name": "面向MATLAB工具箱的神经网络理论与应用",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s8507522.jpg",
+    "msg": "丛爽/中国科大/2009-4/38.00元",
+    "comment_num": "10",
+    "introduction": "《面向MATLAB工具箱的神经网络理论与应用》利用目前国际上流行通用的MATLAB7.0环境，结合神经网络工具箱4.0.6版本，分别从网络构造、基本原理、..."
+  },
+  {
+    "name": "智能控制理论与技术",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s1289721.jpg",
+    "msg": "孙增圻、等/清华大学出版社/1997-04/32.00元",
+    "comment_num": "10",
+    "introduction": "内容简介智能控制是一门新兴的交叉学科。本书系统地介绍了智能控制的理论和主要技术内容，其中包括模糊逻辑控制、神经网络控制、专家控制、学习控制、分层递..."
+  },
+  {
+    "name": "人工神经网络与模拟进化计算",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s1072826.jpg",
+    "msg": "阎平凡、张长水/清华大学出版社/2000-11-01/36.00元",
+    "comment_num": "10",
+    "introduction": "现在国内有关神经网络和模拟进化计"
+  },
+  {
+    "name": "MATLAB神经网络应用设计",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s6225361.jpg",
+    "msg": "傅荟璇//赵红/机械工业/2010-9/37.00元",
+    "comment_num": "10",
+    "introduction": "《MATLAB神经网络应用设计》介绍了MATLAB和人工神经网络的基础知识，MATLAB神经网络工具箱的重要函数，几种比较重要的神经网络模型，包括感知器、线..."
+  },
+  {
+    "name": "基于神经网络的结构优化与损伤检测",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s9806073.jpg",
+    "msg": "姜绍飞/科学出版社/2002-6/25.00",
+    "comment_num": "10",
+    "introduction": "本书主要论述了基于神经网络的结构优化设计和结构损伤检测的基本原理、实现技术策略和工程实际应用。全书共分六章，内容包括神经网络在土木工程中的应用概况、神经网络..."
+  },
+  {
+    "name": "基函数神经网络及应用",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s8883640.jpg",
+    "msg": "2009-4/28.00元",
+    "comment_num": "10",
+    "introduction": "《基函数神经网络及应用》是作者10余年来基于函数逼近论与神经生物学的相关知识，在前向神经网络理论与应用方面取得的系列研究成果的总结以及对一些最新进展的介绍和..."
+  },
+  {
+    "name": "人工神经网络实用教程",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s29460511.jpg",
+    "msg": "杨建刚/浙江大学出版社/2002-03-01/25.00元",
+    "comment_num": "10",
+    "introduction": "本书系统地介绍了人工神经网络典型模型的原理、算法，并对遗传算法的基本原理也作了简单介绍。全书共分九章，内容包括：概述、人工神经网络基本模型、BP网络(误差反..."
+  },
+  {
+    "name": "电子电路识图:电子电路识图",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s10009873.jpg",
+    "msg": "李萍/化学工业出版社/2006-1/19.00元",
+    "comment_num": "10",
+    "introduction": "本书是《实用电子技术培训读本》之一，主要介绍了电子电路识图基本知识、常用电路图图形符号和文字符号、基本放大电路识图、集成运算放大器电路识图、信号与脉冲波形产..."
+  },
+  {
+    "name": "IntroductiontoNeuralNetworksforJava,2ndEdition",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s3920452.jpg",
+    "msg": "JeffHeaton/HeatonResearch,Inc./2008-10-01/USD39.99",
+    "comment_num": "10"
+  },
+  {
+    "name": "Matlab神经网络与应用",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s9183462.jpg",
+    "msg": "董长虹/国防工业/2007-1/33.00元",
+    "comment_num": "10",
+    "introduction": "Matlab语言是MathWorks公司推出的一套高性能计算机编程语言，集数学计算、图形显示、语言设计于一体，其强大的扩展功能为用户提供了广阔的应用空间。它..."
+  },
+  {
+    "name": "应用MATLAB实现神经网络",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s29496679.jpg",
+    "msg": "闻新、李新、张兴旺/国防工业出版社/2015-6/59",
+    "comment_num": "10",
+    "introduction": "应用MATLAB实现神经网络》共分为9章。主要内容包括人工神经网络概述和MATLAB基本用法介绍、MATLAB神经网络工具箱的基本用法和应用实例；介绍..."
+  },
+  {
+    "name": "人工神经网络与微粒群优化",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s5886221.jpg",
+    "msg": "刘希玉,刘弘/2008-3/38.00元",
+    "comment_num": "10",
+    "introduction": "《人工神经网络与微粒群优化》介绍了几类常用的和基本的人工神经网络模型，即感知机、前馈型、反馈型、随机神经网络，还介绍了比较新并有发展前途的支持向量机、非线性..."
+  },
+  {
+    "name": "PatternRecognitionandNeuralNetworks",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s4011314.jpg",
+    "msg": "BrianD.Ripley/CambridgeUniversityPress/2008-01-28/USD45.00",
+    "comment_num": "10",
+    "introduction": "Nowinpaperback:themostreliableaccountofthestatisticalframeworkforp..."
+  },
+  {
+    "name": "神经网络及其应用",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s1332845.jpg",
+    "msg": "周志华、曹存根/清华大学出版社/2004-9/49.00元",
+    "comment_num": "10",
+    "introduction": "本书特别邀请国内神经网络及相关领域的知名专家，分别对神经网络的理论基础及典型应用进行了讨论。内容涉及神经网络的学习方法、优化计算、知识理论、流形学习、过程神..."
+  },
+  {
+    "name": "人工智慧概論",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s24593322.jpg",
+    "msg": "EugeneCharniak、DrewMcDermott/孫貴章/全華科技圖書股份有限公司、世界图书出版公司/1991-2/17.40元",
+    "comment_num": "10"
+  },
+  {
+    "name": "行为自动机研究:选择性综合神经模拟",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s9813249.jpg",
+    "msg": "国防工业/2003-1/25.00元",
+    "comment_num": "10"
+  },
+  {
+    "name": "生物计算机—日本的下一代计算机",
+    "imgSrc": "https://img3.doubanio.com/f/shire/5522dd1f5b742d1e1394a17f44d590646b63871d/pics/book-default-lpic.gif",
+    "msg": "（日本）、译：/国防工业出版社/1996/10元",
+    "comment_num": "10"
+  },
+  {
+    "name": "基于神经网络的智能诊断",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s8448200.jpg",
+    "msg": "虞和济/冶金工业出版社/2000-5/48.00元",
+    "comment_num": 0,
+    "introduction": "《基于神经网络的智能诊断》共8篇，内容涉及神经网络智能诊断的产生、发展、现状与动向，复杂系统智能诊断问题的概念和策略；基于小波变换的最新新信号处理技术；神经..."
+  },
+  {
+    "name": "社会动力学与信息化理论",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s5817498.jpg",
+    "msg": "钟义信/广东教育/2007-2/27.00元",
+    "comment_num": 0,
+    "introduction": "《科学、技术与社会》丛书是我国学者经过多年研究所取得的一项重大的创新性成果。它不仅系统地探索和建构了独到的STS学科体系，而且对当代新科技革命及其与我国现代..."
+  },
+  {
+    "name": "AnIntroductiontoNeuralNetworks",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s7677246.jpg",
+    "msg": "Anderson,JamesA./1995-3/$146.90",
+    "comment_num": "10",
+    "introduction": "AnIntroductiontoNeuralNetworksfallsintoanewecologicalnichefortexts..."
+  },
+  {
+    "name": "人工神经网络原理及其应用",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s10422987.jpg",
+    "msg": "//2002-1/14.00元",
+    "comment_num": 0,
+    "introduction": "《人工神经网络原理及其应用》分绪论、人工神经网络的基本原理与算法等九章，论述了人工神经网络的基本单元、网络结构、几种常用的人工神经网络的算法及其在电力系统中..."
+  },
+  {
+    "name": "ObservedBrainDynamics",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s4360276.jpg",
+    "msg": "Mitra,ParthaP./Bokil,Hemant/2007-12/$76.78",
+    "comment_num": "10",
+    "introduction": "Thebiomedicalscienceshaverecentlyundergonerevolutionarychange,duetot..."
+  },
+  {
+    "name": "MATLAB神经网络设计与应用",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s26242297.jpg",
+    "msg": "周品/清华大学出版社/2013-2/46.00元",
+    "comment_num": "10",
+    "introduction": "周品编著的《MATLAB神经网络设计与应用(最新版)》以最新版MATLABR2012a为平台编写，结合高等学校教学对MATLAB及其在神经网络的应用需要，..."
+  },
+  {
+    "name": "神经网络及其应用",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s1332845.jpg",
+    "msg": "周志华、曹存根/清华大学出版社/2004-9/49.00元",
+    "comment_num": "10",
+    "introduction": "本书特别邀请国内神经网络及相关领域的知名专家，分别对神经网络的理论基础及典型应用进行了讨论。内容涉及神经网络的学习方法、优化计算、知识理论、流形学习、过程神..."
+  },
+  {
+    "name": "智能控制理论与技术",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s1289721.jpg",
+    "msg": "孙增圻、等/清华大学出版社/1997-04/32.00元",
+    "comment_num": "10",
+    "introduction": "内容简介智能控制是一门新兴的交叉学科。本书系统地介绍了智能控制的理论和主要技术内容，其中包括模糊逻辑控制、神经网络控制、专家控制、学习控制、分层递..."
+  },
+  {
+    "name": "智能时代:当所有的机器都能学习思考，我们的生活会如何改变",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s27326199.jpg",
+    "msg": "JeffHawkins、SandraBlakeslee/李蓝、刘知远/译言·东西文库／中国华侨出版社/2014-7-1/42.00",
+    "allStar": "allstar4",
+    "grade": "8.4",
+    "comment_num": "178",
+    "introduction": "世界科技界领袖级人物、掌上电脑PDA发明人杰夫•霍金斯经典力著全新升级版。详细揭示未来主流大趋势,比大数据更能决定我们生活的是智能。智能手机，智能汽车，智..."
+  },
+  {
+    "name": "MATLAB6.5辅助神经网络分析与设计",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s1939787.jpg",
+    "msg": "飞思科技产品研发中心/电子工业出版社/2003-1/29.00",
+    "comment_num": "10",
+    "introduction": "本书是在MATLAB6.5的神经网络工具箱V4.0.2基础上编写的。全书共13章，首先简要介绍了神经网络的发展及基本理论，包括前向型神经网络、反馈神经..."
+  },
+  {
+    "name": "从神经元芯片到控制网络",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s1962260.jpg",
+    "msg": "凌志浩/第1版(2002年1月1日)/2002-2-1/21.00元",
+    "comment_num": 0,
+    "introduction": "本书以“从神经元芯片到控制网络”为主线，详细介绍LonWorks控制网络的原理、Neuron芯片、LonTalk协议、NeuronC应用程序设计语言、34..."
+  },
+  {
+    "name": "MATLAB神经网络应用设计",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s8962091.jpg",
+    "msg": "张德丰/2012-2/59.80元",
+    "comment_num": 0,
+    "introduction": "《MATLAB神经网络应用设计(第2版)》以MATLABR2011a为平台编写，简洁明了地介绍了神经网络理论及其实现方法、神经网络背景及其MATIAB工具箱..."
+  },
+  {
+    "name": "Brain-LikeComputingandIntelligentInformationSystems",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s8818563.jpg",
+    "msg": "Amari,Shun-Ichi;Amari,S.;Kasabov,N./$111.87",
+    "comment_num": 0,
+    "introduction": "Thisbookintroducesanddefinesanewareaincomputerscienceandartificial..."
+  },
+  {
+    "name": "图解深度学习与神经网络：从张量到TensorFlow实现",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s29877486.jpg",
+    "msg": "张平/电子工业出版社/2018-10/79.00元",
+    "comment_num": 0,
+    "introduction": "《图解深度学习与神经网络：从张量到TensorFlow实现》是以TensorFlow为工具介绍神经网络和深度学习的入门书，内容循序渐进，以简单示例和图例的..."
+  },
+  {
+    "name": "MATLAB神经网络超级学习手册",
+    "imgSrc": "https://img3.doubanio.com/f/shire/5522dd1f5b742d1e1394a17f44d590646b63871d/pics/book-default-lpic.gif",
+    "msg": "MATLAB技术联盟、刘冰、郭海霞/人民邮电出版社/2014-5",
+    "comment_num": "10",
+    "introduction": "《MATLAB神经网络超级学习手册》以新近推出的MATLABR2013a神经网络工具箱为基础，系统全面地介绍了神经网络的各种概念和应用。《MATLAB神经..."
+  },
+  {
+    "name": "MATLAB神经网络应用设计/MATLAB语言应用系列",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s1582156.jpg",
+    "msg": "//1900-01-01/31.00元",
+    "comment_num": "10",
+    "introduction": ""
+  },
+  {
+    "name": "应用MATLAB实现神经网络",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s29496679.jpg",
+    "msg": "闻新、李新、张兴旺/国防工业出版社/2015-6/59",
+    "comment_num": "10",
+    "introduction": "应用MATLAB实现神经网络》共分为9章。主要内容包括人工神经网络概述和MATLAB基本用法介绍、MATLAB神经网络工具箱的基本用法和应用实例；介绍..."
+  },
+  {
+    "name": "TensorFlow深度学习",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s29731177.jpg",
+    "msg": "[意]GiancarloZaccone、[埃及]AhmedMenshawy、[孟加拉]Md.RezaulKarim/李志/人民邮电出版社/2018-4/49.00元",
+    "comment_num": "10",
+    "introduction": "本书共分5方面内容：基础知识、关键模块、算法模型、内核揭秘、生态发展。前两方面由浅入深地介绍了TensorFlow平台，算法模型方面依托TensorFlo..."
+  },
+  {
+    "name": "神经网络权值直接确定法",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s6248717.jpg",
+    "msg": "2010-10/38.00元",
+    "comment_num": "10",
+    "introduction": "《神经网络权值直接确定法》提出了一种神经网络权值直接确定的方法。不同于传统的神经网络迭代学习思想，新方法可以一步直接计算出学习型神经网络的最优权值，展示其在..."
+  },
+  {
+    "name": "人工神经网络与盲信号处理",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s1098184.jpg",
+    "msg": "杨行峻/第1版(2003年1月1日)/2003-1-1/39.00",
+    "comment_num": "10",
+    "introduction": "《人工神经网络与盲信号处理》由清华大学出版社出版。"
+  },
+  {
+    "name": "IntroductiontoNeuralNetworksforC#,2ndEdition",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s3769347.jpg",
+    "msg": "JeffHeaton/HeatonResearch,Inc./2008-11-30/USD39.99",
+    "comment_num": 0
+  },
+  {
+    "name": "深度学习:一起玩转TensorLayer",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s29663708.jpg",
+    "msg": "董豪等/电子工业出版社/2018-1-1/CNY99.00",
+    "comment_num": "10",
+    "introduction": "《深度学习：一起玩转TensorLayer》由TensorLayer创始人领衔写作，TensorLayer社区众包完成，作者全部来自一线人工智能研究员和工程..."
+  },
+  {
+    "name": "混沌系统的模糊神经网络控制理论与方法",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s5904032.jpg",
+    "msg": "谭文王耀南/2008-5/48.00元",
+    "comment_num": 0,
+    "introduction": "《混沌系统的模糊神经网络控制理论与方法》较为系统地介绍了混沌系统的模糊神经网络控制的基本理论和近年来的新方法、新成果。全书共分12章，内容包括混沌系统的BP..."
+  },
+  {
+    "name": "RethinkingInnateness:ConnectionistPerspectiveonDevelopment",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s29620962.jpg",
+    "msg": "JefferyElman/MITPress/1998-3-5/GBP32.95",
+    "comment_num": "10",
+    "introduction": "RethinkingInnatenessasksthequestion,\"Whatdoesitreallymeantosaythat..."
+  },
+  {
+    "name": "ParallelDistributedProcessing,Vol.2:PsychologicalandBiologicalModels",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s3765236.jpg",
+    "msg": "JamesL.McClelland、DavidE.Rumelhart、thePDPResearchGroup/TheMITPress/1987-07-29/USD44.00",
+    "comment_num": 0,
+    "introduction": "Whatmakespeoplesmarterthancomputers?Thesevolumesbyapioneeringneuroc..."
+  },
+  {
+    "name": "基函数神经网络及应用",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s8883640.jpg",
+    "msg": "2009-4/28.00元",
+    "comment_num": "10",
+    "introduction": "《基函数神经网络及应用》是作者10余年来基于函数逼近论与神经生物学的相关知识，在前向神经网络理论与应用方面取得的系列研究成果的总结以及对一些最新进展的介绍和..."
+  },
+  {
+    "name": "IntroductiontoNeuralNetworksforJava,2ndEdition",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s3920452.jpg",
+    "msg": "JeffHeaton/HeatonResearch,Inc./2008-10-01/USD39.99",
+    "comment_num": "10"
+  },
+  {
+    "name": "PatternRecognitionandNeuralNetworks",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s4011314.jpg",
+    "msg": "BrianD.Ripley/CambridgeUniversityPress/2008-01-28/USD45.00",
+    "comment_num": "10",
+    "introduction": "Nowinpaperback:themostreliableaccountofthestatisticalframeworkforp..."
+  },
+  {
+    "name": "机器学习",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s6093730.jpg",
+    "msg": "(美)TomMitchell/曾华军、张银奎、等/机械工业出版社/2008-3/35.00元",
+    "allStar": "allstar4",
+    "grade": "8.4",
+    "comment_num": "754",
+    "introduction": "《机器学习》展示了机器学习中核心的算法和理论，并阐明了算法的运行过程。《机器学习》综合了许多的研究成果，例如统计学、人工智能、哲学、信息论、生物学、认知科学..."
+  },
+  {
+    "name": "人工神经网络理论、设计及应用",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s9946140.jpg",
+    "msg": "韩力群/第1版(2002年1月1日)/2002-1/21.0",
+    "comment_num": 0,
+    "introduction": "人工神经网络理论、设计及应用：人工神经细胞、人工神经网络和人工神经系统，ISBN：9787502533540，作者：韩力群编著"
+  },
+  {
+    "name": "人工神经网络与模拟进化计算",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s1072826.jpg",
+    "msg": "阎平凡、张长水/清华大学出版社/2000-11-01/36.00元",
+    "comment_num": "10",
+    "introduction": "现在国内有关神经网络和模拟进化计"
+  },
+  {
+    "name": "MakeYourOwnNeuralNetwork",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s29249951.jpg",
+    "msg": "TariqRashid/CreateSpaceIndependentPublishingPlatform/2016-3-31/USD45.00",
+    "allStar": "allstar5",
+    "grade": "9.6",
+    "comment_num": "31"
+  },
+  {
+    "name": "人工神经网络技术及应用/机电工程师继续教育丛书",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s9867370.jpg",
+    "msg": "裴旭东/中国电力出版社/2003-9/14.0",
+    "comment_num": 0,
+    "introduction": "本书为机电工程师继续教育丛书之一。本书以工程应用为背景，系统地阐述常用人工神经网络的基本原理、学习算法及分析方法，全书共分六章。第一章简述人工神经元的发展及..."
+  },
+  {
+    "name": "二进前向人工神经网络-----理论与应用",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s25696709.jpg",
+    "msg": "张军英/西安电子科技大学出版/2001-05-01/21.0",
+    "comment_num": 0,
+    "introduction": ""
+  },
+  {
+    "name": "人工神经网络与自然计算研究进展",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s8891686.jpg",
+    "msg": "高隽/2004-10/300.00元",
+    "comment_num": 0,
+    "introduction": "本书是一部第十四届中国神经网络学术会议论文集,并对人工神经网络与自然计算研究进展进行了详细的阐述。"
+  },
+  {
+    "name": "IntroductiontoArtificialNeuralSystems",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s6981655.jpg",
+    "msg": "JacekM.Zurada/WestPublishingCompany/1992-10/USD57.50",
+    "comment_num": 0,
+    "introduction": "作者简介ZuradaistheS.T.FifeAlumniProfessorofElectricalEngineeringatth..."
+  },
+  {
+    "name": "scikitlearn机器学习:常用算法原理及编程实战",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s29817840.jpg",
+    "msg": "黄永昌/机械工业出版社/2018-3-1/CNY59.00",
+    "comment_num": "10",
+    "introduction": "本书通过通俗易懂的语言、丰富的图示和生动的实例，拨开了笼罩在机器学习上方复杂的数学“乌云”，让读者以较低的代价和门槛轻松入门机器学习。本书共分为11章，主要..."
+  },
+  {
+    "name": "第六代计算机:人工神经网络计算机",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s27992599.jpg",
+    "msg": "王汝笠等/科学技术文献出版社/1992-12",
+    "comment_num": "10",
+    "introduction": "本书论述了计算机神经学、人工神经网络理论基础、光学人工神经网络计算机及人工神经网络工程若干应用等。"
+  },
+  {
+    "name": "数学之美（第二版）",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s27653128.jpg",
+    "msg": "吴军/人民邮电出版社/2014-11/49.00元",
+    "allStar": "allstar4",
+    "grade": "8.9",
+    "comment_num": "2368",
+    "introduction": "几年前，“数学之美”系列文章原刊载于谷歌黑板报，获得上百万次点击，得到读者高度评价。读者说，读了“数学之美”，才发现大学时学的数学知识，比如马尔可夫链、矩阵..."
+  },
+  {
+    "name": "隐秩序:适应性造就复杂性",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s1057289.jpg",
+    "msg": "约翰H.霍兰/周晓牧/韩晖/上海科技教育出版社/2000-08/14.6",
+    "allStar": "allstar4",
+    "grade": "8.4",
+    "comment_num": "205",
+    "introduction": "像艾滋病一类疾病为何能够摧毁免疫系统？像纽约、东京这样的大城市如何能够不间断地保障食品、医疗、服饰和数百万种居民必需品的供给？这类高度复杂系统的运作仍然是一..."
+  },
+  {
+    "name": "DeepLearning:AdaptiveComputationandMachineLearningseries",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s29133163.jpg",
+    "msg": "IanGoodfellow、YoshuaBengio、AaronCourville/TheMITPress/2016-11-11/USD72.00",
+    "allStar": "allstar4",
+    "grade": "9.3",
+    "comment_num": "329",
+    "introduction": "\"Writtenbythreeexpertsinthefield,DeepLearningistheonlycomprehensiv..."
+  },
+  {
+    "name": "MathematicsofNeuralNetworks",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s26669403.jpg",
+    "msg": "Ellacott,StephenW.;Mason,JohnC.;Anderson,IainJ./2012-11/$394.37",
+    "comment_num": 0,
+    "introduction": "Thisbookexaminesthemathematics,probability,statistics,andcomputationa..."
+  },
+  {
+    "name": "前馈神经网络及其应用",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s26627372.jpg",
+    "msg": "科学出版社/2013-3/56.00元",
+    "comment_num": 0,
+    "introduction": "《前馈神经网络及其应用》较系统地介绍了前馈神经网络的网络模型、学习算法、逼近理论，除介绍国内外其他学者的研究成果外，主要介绍作者已公开发表和尚未公开发表的系..."
+  },
+  {
+    "name": "神经网络设计（原书第2版）",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s29936638.jpg",
+    "msg": "（美）马丁T.哈根、（美）霍华德B.德姆斯、（美）马克H.比勒/章毅/机械工业出版社/2017-11/99.00元",
+    "comment_num": "10"
+  },
+  {
+    "name": "模糊系统、模糊神经网络及应用程序设计",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s9936163.jpg",
+    "msg": "1998-12/24.80元",
+    "comment_num": "10"
+  },
+  {
+    "name": "NeuralNetworksandLearningMachines",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s6836026.jpg",
+    "msg": "Haykin,Simon/2008-9",
+    "comment_num": "10",
+    "introduction": "Forgraduate-levelneuralnetworkcoursesofferedinthedepartmentsofComput..."
+  },
+  {
+    "name": "ParallelDistributedProcessing-2Vol.Set:ExplorationsintheMicrostructureofCognition",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s18771427.jpg",
+    "msg": "DavidE.Rumelhart、JamesL.McClelland、thePDPResearchGroup/TheMITPress/1987-7-29/USD80.00",
+    "comment_num": "10",
+    "introduction": "Whatmakespeoplesmarterthancomputers?Thesevolumesbyapioneeringneuroc..."
+  },
+  {
+    "name": "人工神经网络原理及应用",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s26552045.jpg",
+    "msg": "本社/科学出版社/2006-3/24.00元",
+    "comment_num": "10",
+    "introduction": "人工神经网络原理及应用，ISBN：9787030165701，作者：朱大奇、史慧"
+  },
+  {
+    "name": "模式分类:原书第2版",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s1576438.jpg",
+    "msg": "RichardO.Duda、PeterE.Hart、DavidG.Stork/李宏东/机械工业出版社/2003-9/59.00元",
+    "allStar": "allstar4",
+    "grade": "8.9",
+    "comment_num": "339",
+    "introduction": "《模式分类》(原书第2版)的第1版《模式分类与场景分析》出版于1973年，是模式识别和场景分析领域奠基性的经曲名著。在第2版中，除了保留了第1版的关于统计模..."
+  },
+  {
+    "name": "Connectionism:TheoryandPractice",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s29747315.jpg",
+    "msg": "Davis,Steven编/OxfordUniversityPress/1993-1-21/GBP57.00",
+    "comment_num": 0,
+    "introduction": "ThisisthethirdvolumeintheVancouverStudiesinCognitiveScienceSeries...."
+  },
+  {
+    "name": "数学之美",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s9114855.jpg",
+    "msg": "吴军/人民邮电出版社/2012-5-1/45.00元",
+    "allStar": "allstar4",
+    "grade": "8.7",
+    "comment_num": "9072",
+    "introduction": "几年前，“数学之美”系列文章原刊载于谷歌黑板报，获得上百万次点击，得到读者高度评价。读者说，读了“数学之美”，才发现大学时学的数学知识，比如马尔可夫链、矩阵..."
+  },
+  {
+    "name": "QuantumNeuralComputation(IntelligentSystems,ControlandAutomation:ScienceandEngineering)",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s29564364.jpg",
+    "msg": "VladimirG.Ivancevic、TijanaT.Ivancevic/Springer/2009-12-10/USD299.00",
+    "comment_num": 0,
+    "introduction": "QuantumNeuralComputationisagraduatelevelmonographictextbook.Itpresen..."
+  },
+  {
+    "name": "TheHarmonicMind:FromNeuralComputationtoOptimality-TheoreticGrammar:VolumeI:CognitiveArchitecture",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s18770737.jpg",
+    "msg": "Smolensky,Paul、Legendre,Geraldine/MitPr/2006-1/$62.15",
+    "comment_num": 0,
+    "introduction": "Anintegratedconnectionist/symbolicarchitectureofthemind/brain,appliedt..."
+  },
+  {
+    "name": "NeuralNetworksTheory",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s8783845.jpg",
+    "msg": "Galushkin,A.I./SpringerVerlag/$134.47",
+    "comment_num": 0,
+    "introduction": "Thisbook,writtenbyaleaderinneuralnetworktheoryinRussia,usesmathem..."
+  },
+  {
+    "name": "人工神经网络导论",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s5664183.jpg",
+    "msg": "张青贵编/中国水利水电出版社/2004-1/26.00元",
+    "comment_num": "10",
+    "introduction": "本书较系统地介绍了人工神经网络的基本理论和方法，全书共10章，可分为四大部分：第一部分包括第一章至第二章，叙述了学习人工神经网络应该具备的基础知识，内容有大..."
+  },
+  {
+    "name": "幡云世界Ⅰ:众阳之阳",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s28263787.jpg",
+    "msg": "[加]卡尔·施罗德/秦鹏/清华大学出版社/2015-7-20/32",
+    "allStar": "allstar3",
+    "grade": "7.4",
+    "comment_num": "12",
+    "introduction": "居住在高堡的格利芬其父不知何时因何而死，其母和其他工程师为了启动他们建造的新太阳，歼灭逐流人的敌舰而亡。长大后的格利芬为了复仇混入了逐流人社会，在拂风司令家..."
+  },
+  {
+    "name": "OnIntelligence:HowaNewUnderstandingoftheBrainwillLeadtotheCreationofTrulyIntelligentMachines",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s1480954.jpg",
+    "msg": "JeffHawkins、SandraBlakeslee/TimesBooks/2004-10-03/USD25.00",
+    "allStar": "allstar4",
+    "grade": "8.8",
+    "comment_num": "155",
+    "introduction": "FromtheinventorofthePalmPilotcomesanewandcompellingtheoryofintell..."
+  },
+  {
+    "name": "MATLAB神经网络30例",
+    "imgSrc": "https://img3.doubanio.com/f/shire/5522dd1f5b742d1e1394a17f44d590646b63871d/pics/book-default-lpic.gif",
+    "msg": "杨杰/电子工业出版社/2014-7/59.8",
+    "comment_num": "10",
+    "introduction": "神经网络经过了近70年的蓬勃发展，其拓扑结构、工作机制与应用领域已经发生了翻天覆地的变化，全面、直观、深入地认识各类神经网络已经是学习运用神经网络的必由之路..."
+  },
+  {
+    "name": "NeuralNetworksinFinance:GainingPredictiveEdgeintheMarket(AcademicPressAdvancedFinanceSeries)",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s2545123.jpg",
+    "msg": "PaulD.McNelis/AcademicPress/2004-12-22/USD74.95",
+    "comment_num": "10",
+    "introduction": "Thisbookexplorestheintuitiveappealofneuralnetworksandthegeneticalg..."
+  },
+  {
+    "name": "数字创世纪:人工生命的新科学",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s9050951.jpg",
+    "msg": "李建会、张江/科学分社/2006-1/48.00元",
+    "allStar": "allstar4",
+    "grade": "8.9",
+    "comment_num": "35",
+    "introduction": "《数字创世纪:人工生命的新科学》对计算机和生物学交叉的前沿科学——人工生命进行了较详细地描述，从人工生命的起源、研究方法、形式、主张等不同方面进行描述，是国..."
+  },
+  {
+    "name": "基于神经网络的优化设计及应用",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s6031393.jpg",
+    "msg": "孙虎儿/2006-5/22.00元",
+    "comment_num": 0,
+    "introduction": "《基于神经网络的优化设计及应用》所提出的基于神经网络的立体正交优化设计方法是在多学科知识融合的基础上进行了创新，将试验技术与优化技术、神经网络与建模技术、小..."
+  },
+  {
+    "name": "机器学习导论",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s6033434.jpg",
+    "msg": "EthenAlpaydin/范明、昝红英、牛常勇/机械工业出版社/2009-6/39.00元",
+    "allStar": "allstar3",
+    "grade": "7.2",
+    "comment_num": "87",
+    "introduction": "《机器学习导论》对机器学习的定义和应用实例进行了介绍，涵盖了监督学习。贝叶斯决策理论。参数方法、多元方法、维度归约、聚类、非参数方法、决策树。线性判别式、多..."
+  },
+  {
+    "name": "计算物理学",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s5725020.jpg",
+    "msg": "马文淦/科学出版社/2005-5/37.00元",
+    "allStar": "allstar3",
+    "grade": "6.5",
+    "comment_num": "15",
+    "introduction": "《计算物理学》比较系统、详细地讲述了计算物理领域涉及的重要基本概念、数学基础与方法。书中不仅较多地讲述了在传统物理课题中常用的数值计算方法：如偏微分方程的数..."
+  },
+  {
+    "name": "NonlinearDispersiveWaves:AsymptoticAnalysisandSolitons",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s27349924.jpg",
+    "msg": "MarkJ.Ablowitz/CambridgeUniversityPress/2011-10-11/USD64.00",
+    "comment_num": 0
+  },
+  {
+    "name": "神经网络、模糊系统及其在运动控制中的确应用",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s27114632.jpg",
+    "msg": "丛爽/中国科学技术大学出版社/2001-5/23.00元",
+    "comment_num": "10",
+    "introduction": "《神经网络、模糊系统及其在运动控制中的应用》介绍：这是一本关于人工神经网络、模糊逻辑系统，以及模糊神经网络研究成果的专著。作者在简要介绍神经网络理论与模糊理..."
+  },
+  {
+    "name": "智能模糊控制的若干问题研究",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s6087468.jpg",
+    "msg": "王志新/2009-9/20.00元",
+    "comment_num": 0,
+    "introduction": "《智能模糊控制的若干问题研究(自动化)》主要介绍了智能模糊控制问题的几点研究，研究工作目的在于将智能控制理论应用于大滞后、强耦合、非线性的控制系统之中，建立..."
+  },
+  {
+    "name": "NeuralNetworkModelingUsingSASEnterpriseMiner",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s4140079.jpg",
+    "msg": "RandallMatignon/AuthorHouse/2005-08-22/USD38.50",
+    "comment_num": "10",
+    "introduction": "Thisbookisdesignedinmakingstatisticians,researchers,andprogrammersaw..."
+  },
+  {
+    "name": "TheoreticalNeuroscience:ComputationalandMathematicalModelingofNeuralSystems",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s7075975.jpg",
+    "msg": "PeterDayan、LaurenceF.Abbott/TheMITPress/2005-9-1/USD47.00",
+    "allStar": "allstar4",
+    "grade": "9.3",
+    "comment_num": "59",
+    "introduction": "Theoreticalneuroscienceprovidesaquantitativebasisfordescribingwhatner..."
+  },
+  {
+    "name": "InformationTheory,InferenceandLearningAlgorithms",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s4287860.jpg",
+    "msg": "DavidJ.C.MacKay/CambridgeUniversityPress/2003-10-6/USD80.00",
+    "allStar": "allstar4",
+    "grade": "9.2",
+    "comment_num": "88",
+    "introduction": "Informationtheoryandinference,taughttogetherinthisexcitingtextbook,l..."
+  },
+  {
+    "name": "灵魂机器的时代:当计算机超过人类智能时/开放人文",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s1738626.jpg",
+    "msg": "（美）雷·库兹韦尔/沈志彦、祁阿红、王晓冬/上海译文出版社/2006-04-01/37.00",
+    "allStar": "allstar4",
+    "grade": "8.1",
+    "comment_num": "223",
+    "introduction": "信息技术、生物工程、纳米材料是当代科技三大前沿。到21世纪，这三大技术将合力打造出新的智能机器，将重塑人类的大脑和躯体。作者大胆预测：21世纪，人类和机器将..."
+  },
+  {
+    "name": "智能简史",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s2558529.jpg",
+    "msg": "德•加里斯/胡静/清华大学出版社/2007-6/28.00元",
+    "allStar": "allstar3",
+    "grade": "6.9",
+    "comment_num": "191",
+    "introduction": "不远的将来，人工智能机器的智能将是人类的万亿个万亿倍，它们面对我们，并不像我们面对狗，而是如同我们面对蚊子、跳蚤甚至岩石，当它们消灭我们的时候，如同我们将蚊..."
+  },
+  {
+    "name": "神经网络模式识别及其实现",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s4463321.jpg",
+    "msg": "1999-6/58.00元",
+    "comment_num": "10"
+  },
+  {
+    "name": "Anti-PatternsandPatternsinSoftwareConfigurationManagement",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s4021886.jpg",
+    "msg": "WilliamJ.Brown、HaysW.McCormick、ScottW.Thomas/JohnWiley&Sons/1999-04-23/USD44.99",
+    "comment_num": "10"
+  },
+  {
+    "name": "MakingUptheMind:HowtheBrainCreatesOurMentalWorld",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s29577880.jpg",
+    "msg": "ChrisFrith/Wiley-Blackwell/2007-5-3/GBP22.99",
+    "allStar": "allstar4",
+    "grade": "9.1",
+    "comment_num": "212",
+    "introduction": "Insideyourheadthereisanamazinglaborsavingdevice;moreeffectivethan..."
+  },
+  {
+    "name": "ModellingandControlofRobotManipulators",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s4060964.jpg",
+    "msg": "LorenzoSciavicco、BrunoSiciliano/Springer/2001-02-17/USD74.95",
+    "comment_num": "10",
+    "introduction": "Fundamentalandtechnologicaltopicsareblendeduniquelyanddevelopedclearl..."
+  },
+  {
+    "name": "神经网络实用教程",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s5874129.jpg",
+    "msg": "2008-2/19.00元",
+    "comment_num": "10",
+    "introduction": "《普通高等教育\"十一五\"规划教材•神经网络实用教程》基于MATLAB6.5/7提供的神经网络工具箱，介绍了神经网络常用算法、优化算法及其混合编程实现。全书..."
+  },
+  {
+    "name": "世界的逻辑构造",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s23527529.jpg",
+    "msg": "[德]鲁道夫·卡尔纳普/陈启伟/上海译文出版社/2008-6/30.00",
+    "allStar": "allstar4",
+    "grade": "8.9",
+    "comment_num": "94",
+    "introduction": "卡尔纳普是20世纪著名的分析哲学家，维也纳学派的领袖之一。《世界的逻辑构造》是他早期的代表作。本书运用弗雷格、罗素肇始的逻辑分析方法，将一切科学领域的概念都..."
+  },
+  {
+    "name": "认知、脑与意识:认知神经科学导论",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s3452593.jpg",
+    "msg": "BernardJ.Baars、NicoleM.Gage/科学出版社/2008-8/280.00元",
+    "allStar": "allstar4",
+    "grade": "9.4",
+    "comment_num": "38",
+    "introduction": "一股新的研究浪潮正改变着我们对人类思维和大脑的认识。许多基础教育领域已要求学生对认知神经科学具备基本的理解。不过，目前多数教科书都是为生物学专业的学生准备的..."
+  },
+  {
+    "name": "神经网络设计方法与实例分析",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s4667150.jpg",
+    "msg": "施彦//韩力群//廉小亲/北京邮电大学/2009-12/42.00元",
+    "comment_num": "10",
+    "introduction": "《智能科学与技术本科专业系列教材•神经网络设计方法与实例分析》从神经网络设计和应用实践出发，介绍了10种常见的人工神经网络的基本原理、设计方法，并从各个应用..."
+  },
+  {
+    "name": "人工智能:复杂问题求解的结构和策略(原书第6版)",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s4161780.jpg",
+    "msg": "(美)GeorgeF.Luger/郭茂祖;刘扬;玄萍;王春宇/机械工业出版社/2010-1/79.00元",
+    "allStar": "allstar4",
+    "grade": "7.7",
+    "comment_num": "41",
+    "introduction": "《人工智能复杂问题求解的结构和策略(原书第6版)》是一本经典的人工智能教材，全面阐述了人工智能的基础理论，有效结合了求解智能问题的数据结构以及实现的算法，把..."
+  },
+  {
+    "name": "统计学习理论的本质",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s5919067.jpg",
+    "msg": "[美]VladimirN.Vapnik/张学工/清华大学出版社/2000/27.00元",
+    "allStar": "allstar4",
+    "grade": "9.0",
+    "comment_num": "110",
+    "introduction": "本书介绍了统计学习理论和支持向量机的关键思想、结论和方法，以及该领域的最新进展。统计学习理论是针对小样本情况研究统计学习规律的理论，是传统统计学的重要发展和..."
+  },
+  {
+    "name": "经济预测方法及MATLAB实现",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s8976856.jpg",
+    "msg": "2012-3/32.00元",
+    "comment_num": "10",
+    "introduction": "《经济预测方法及MATLAB实现》从模型的基本知识和理论出发，采用经济、金融等领域的实际案例，编写相应的MATLAB程序，轻松地得出含大量数据并套用模型的计..."
+  },
+  {
+    "name": "基于人工神经网络的旅游市场趋势预测方法研究",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s10190792.jpg",
+    "msg": "王静/2012-3/22.00元",
+    "comment_num": 0,
+    "introduction": "《经济学•管理学博士论著:基于人工神经网络的旅游市场趋势预测方法研究》基于旅游市场预测理论和人工神经网络理论，以旅游市场趋势预测方法为研究对象，运用人工神经..."
+  },
+  {
+    "name": "智能控制技术",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s9128124.jpg",
+    "msg": "易继�、等/北京工业大学出版社/1999-09/35.00元",
+    "comment_num": "10",
+    "introduction": "内容简介本书面向智能控制学科前沿，从工程应用的角度出发，比较全面地介绍了智能控制的基本概念、理论和系统设计方法及微机实现技术。全书共分十章，包括智能控制..."
+  },
+  {
+    "name": "神经网络结构优化方法及应用",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s11345077.jpg",
+    "msg": "韩丽/2012-8/28.00元",
+    "comment_num": "10",
+    "introduction": "《神经网络结构优化方法及应用》从RBF网络训练算法、结构分解、结构优化、样本选取等几方面人手，分析了提高神经网络泛化能力和收敛速度的途径与实现方法，提出了快..."
+  },
+  {
+    "name": "HandbookofExactStringMatchingAlgorithms",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s13127863.jpg",
+    "msg": "Charras,Christian;Lecroq,Thierry;/2004-2/$33.90",
+    "comment_num": 0,
+    "introduction": "Stringmatchingisaveryimportantsubjectinthewiderdomainoftextproces..."
+  },
+  {
+    "name": "ContainerFormats",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s15331913.jpg",
+    "msg": "SourceWikipedia;Books,LLC;Books,LLC",
+    "comment_num": 0
+  },
+  {
+    "name": "SpikingNeuralNetworks",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s21759489.jpg",
+    "msg": "H.Amin,Hesham",
+    "comment_num": 0
+  },
+  {
+    "name": "TheHippocampusasaCognitiveMap",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s29477564.jpg",
+    "msg": "JohnO'Keefe、LynnNadel/OxfordUniversityPress/1978-11-16/GBP70.00",
+    "comment_num": "10"
+  },
+  {
+    "name": "意识探秘:意识的神经生物学研究",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s11159140.jpg",
+    "msg": "(美)科赫/顾凡及、侯晓迪/上海科学技术出版社/2012-6-1/75.00元",
+    "allStar": "allstar4",
+    "grade": "9.1",
+    "comment_num": "155",
+    "introduction": "《意识探秘:意识的神经生物学研究》内容简介：意识是科学上至今还未解决的超级秘密之一。什么是意识？意识是怎样产生的？意识有什么益处？只有人才有意识吗？为什么我..."
+  },
+  {
+    "name": "奇点临近:当计算机智能超越人类",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s7645423.jpg",
+    "msg": "RayKurzweil/董振华、李庆成/机械工业出版社/2011-10/69.00元",
+    "allStar": "allstar4",
+    "grade": "7.7",
+    "comment_num": "1276",
+    "introduction": "人工智能作为21世纪科技发展的最新成就，深刻揭示了科技发展为人类社会带来的巨大影响。本书结合求解智能问题的数据结构以及实现的算法，把人工智能的应用程序应用于..."
+  },
+  {
+    "name": "复杂",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s6881762.jpg",
+    "msg": "梅拉妮·米歇尔/唐璐/湖南科学技术出版社/2011-8-1/38.00元",
+    "allStar": "allstar4",
+    "grade": "9.1",
+    "comment_num": "1423",
+    "introduction": "《复杂》内容简介：蚂蚁在组成群体时为何会表现出如此的精密性和具有目的性?数以亿计的神经元是如何产生出像意识这样极度复杂的事物?是什么在引导免疫系统、互联网、..."
+  },
+  {
+    "name": "ProgrammingTool:ComputerProgram,ApplicationSoftware,SoftwareDeveloper,Linker,Grep,Awk,Make,Pipe,Brian",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s4242059.jpg",
+    "msg": "BetascriptPublishing/2010-02-24/USD46.00",
+    "comment_num": 0
+  },
+  {
+    "name": "Backpropagation:Theory,Architectures,andApplications",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s7033822.jpg",
+    "msg": "PsychologyPress/1995-2-3/USD90.00",
+    "comment_num": 0,
+    "introduction": "Composedofthreesections,thisbookpresentsthemostpopulartrainingalgor..."
+  },
+  {
+    "name": "自由与神经生物学",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s1838540.jpg",
+    "msg": "约翰·R·塞尔/中国人民大学出版社/2005-9/9.80元",
+    "allStar": "allstar3",
+    "grade": "7.0",
+    "comment_num": "119",
+    "introduction": "约翰·R·塞尔以他在语文学与精神方面的研究成果享誉全球。在本书中，他在自身的视野里，继续深入在实用哲学领域的研究，重新探讨了一个深刻的问题——自由与政治权力..."
+  },
+  {
+    "name": "随机过程导论",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s4542936.jpg",
+    "msg": "(美)GregoryF.Lawler/张景肖/机械工业出版社/2010年9月/36.00元",
+    "allStar": "allstar3",
+    "grade": "7.3",
+    "comment_num": "25",
+    "introduction": "本书是一本随机过程的优秀教材，不仅以浅显易懂的语言阐述基本概念和方法，而且通过一些非常基础的应用实例，让读者了解如何应用随机过程理论解决实际问题。主要内容包..."
+  },
+  {
+    "name": "Python自然语言处理",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s6237088.jpg",
+    "msg": "(英)伯德、(英)克莱因、(美)洛普/东南大学出版社/2010-6/64.00元",
+    "allStar": "allstar4",
+    "grade": "8.2",
+    "comment_num": "176",
+    "introduction": "《Python自然语言处理(影印版)》提供了非常易学的自然语言处理入门介绍，该领域涵盖从文本和电子邮件预测过滤，到自动总结和翻译等多种语言处理技术。在《Py..."
+  },
+  {
+    "name": "超越谷歌:全球网脑新商机",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s6788819.jpg",
+    "msg": "高路/2010-2/48.00元",
+    "allStar": "allstar3",
+    "grade": "6.8",
+    "comment_num": "35",
+    "introduction": "《超越谷歌:全球网脑新商机》主要内容简介：全球金融危机人人关注。金融危机证明了亚当•斯密提出的“看不见的手”已经失灵，人类文明未来何去何从？Yahoo、微软..."
+  },
+  {
+    "name": "大脑设计:适应性行为的起源",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s4398503.jpg",
+    "msg": "[美]艾什比/乐秀成、朱熹豪等/商务印书馆/1991-11/3.50元",
+    "allStar": "allstar4",
+    "grade": "7.8",
+    "comment_num": "13",
+    "introduction": "本书从研究大脑结构功能，探讨如何研究大脑适应性行为着手，把思维看作一种行为构造来阐述控制论的基本思想。集中代表了控制论发展第二阶段的思想精神。"
+  },
+  {
+    "name": "UnsupervisedLearning:FoundationsofNeuralComputation",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s6517517.jpg",
+    "msg": "ABradfordBook/1999-6-11/USD40.00",
+    "comment_num": "10",
+    "introduction": "Sinceitsfoundingin1989byTerrenceSejnowski,NeuralComputationhasbecom..."
+  },
+  {
+    "name": "模糊逻辑与神经网络:理论研究与探索",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s1292192.jpg",
+    "msg": "刘增良、等/北京航空航天大学出版社/1996-04/33.00",
+    "comment_num": 0,
+    "introduction": "内容简介本书是一部将模糊逻辑与神经网络进行结合研究的论著，介绍了作者近年来在模糊逻辑与神经网络的结合研究与探索中的部分研究成果与心得体会。全书共分五篇，..."
+  },
+  {
+    "name": "2009-2010智能科学与技术学科发展报告",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s6875694.jpg",
+    "msg": "2010-4/32.00元",
+    "comment_num": 0,
+    "introduction": "《2009-2010智能科学与技术学科发展报告》包含1篇综合报告和11篇专题报告。其中，综合报告的主要内容包括：（1）我国智能科学与技术学科的发展现状：重点..."
+  },
+  {
+    "name": "Backpropagation:Theory,Architectures,andApplications",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s7033822.jpg",
+    "msg": "PsychologyPress/1995-2-3/USD90.00",
+    "comment_num": 0,
+    "introduction": "Composedofthreesections,thisbookpresentsthemostpopulartrainingalgor..."
+  },
+  {
+    "name": "自由与神经生物学",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s1838540.jpg",
+    "msg": "约翰·R·塞尔/中国人民大学出版社/2005-9/9.80元",
+    "allStar": "allstar3",
+    "grade": "7.0",
+    "comment_num": "119",
+    "introduction": "约翰·R·塞尔以他在语文学与精神方面的研究成果享誉全球。在本书中，他在自身的视野里，继续深入在实用哲学领域的研究，重新探讨了一个深刻的问题——自由与政治权力..."
+  },
+  {
+    "name": "随机过程导论",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s4542936.jpg",
+    "msg": "(美)GregoryF.Lawler/张景肖/机械工业出版社/2010年9月/36.00元",
+    "allStar": "allstar3",
+    "grade": "7.3",
+    "comment_num": "25",
+    "introduction": "本书是一本随机过程的优秀教材，不仅以浅显易懂的语言阐述基本概念和方法，而且通过一些非常基础的应用实例，让读者了解如何应用随机过程理论解决实际问题。主要内容包..."
+  },
+  {
+    "name": "Python自然语言处理",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s6237088.jpg",
+    "msg": "(英)伯德、(英)克莱因、(美)洛普/东南大学出版社/2010-6/64.00元",
+    "allStar": "allstar4",
+    "grade": "8.2",
+    "comment_num": "176",
+    "introduction": "《Python自然语言处理(影印版)》提供了非常易学的自然语言处理入门介绍，该领域涵盖从文本和电子邮件预测过滤，到自动总结和翻译等多种语言处理技术。在《Py..."
+  },
+  {
+    "name": "大脑设计:适应性行为的起源",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s4398503.jpg",
+    "msg": "[美]艾什比/乐秀成、朱熹豪等/商务印书馆/1991-11/3.50元",
+    "allStar": "allstar4",
+    "grade": "7.8",
+    "comment_num": "13",
+    "introduction": "本书从研究大脑结构功能，探讨如何研究大脑适应性行为着手，把思维看作一种行为构造来阐述控制论的基本思想。集中代表了控制论发展第二阶段的思想精神。"
+  },
+  {
+    "name": "UnsupervisedLearning:FoundationsofNeuralComputation",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s6517517.jpg",
+    "msg": "ABradfordBook/1999-6-11/USD40.00",
+    "comment_num": "10",
+    "introduction": "Sinceitsfoundingin1989byTerrenceSejnowski,NeuralComputationhasbecom..."
+  },
+  {
+    "name": "复杂",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s6881762.jpg",
+    "msg": "梅拉妮·米歇尔/唐璐/湖南科学技术出版社/2011-8-1/38.00元",
+    "allStar": "allstar4",
+    "grade": "9.1",
+    "comment_num": "1423",
+    "introduction": "《复杂》内容简介：蚂蚁在组成群体时为何会表现出如此的精密性和具有目的性?数以亿计的神经元是如何产生出像意识这样极度复杂的事物?是什么在引导免疫系统、互联网、..."
+  },
+  {
+    "name": "奇点临近:当计算机智能超越人类",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s7645423.jpg",
+    "msg": "RayKurzweil/董振华、李庆成/机械工业出版社/2011-10/69.00元",
+    "allStar": "allstar4",
+    "grade": "7.7",
+    "comment_num": "1276",
+    "introduction": "人工智能作为21世纪科技发展的最新成就，深刻揭示了科技发展为人类社会带来的巨大影响。本书结合求解智能问题的数据结构以及实现的算法，把人工智能的应用程序应用于..."
+  },
+  {
+    "name": "意识探秘:意识的神经生物学研究",
+    "imgSrc": "https://img3.doubanio.com/view/subject/m/public/s11159140.jpg",
+    "msg": "(美)科赫/顾凡及、侯晓迪/上海科学技术出版社/2012-6-1/75.00元",
+    "allStar": "allstar4",
+    "grade": "9.1",
+    "comment_num": "155",
+    "introduction": "《意识探秘:意识的神经生物学研究》内容简介：意识是科学上至今还未解决的超级秘密之一。什么是意识？意识是怎样产生的？意识有什么益处？只有人才有意识吗？为什么我..."
+  },
+  {
+    "name": "数学之美（第二版）",
+    "imgSrc": "https://img1.doubanio.com/view/subject/m/public/s27653128.jpg",
+    "msg": "吴军/人民邮电出版社/2014-11/49.00元",
+    "allStar": "allstar4",
+    "grade": "8.9",
+    "comment_num": "2368",
+    "introduction": "几年前，“数学之美”系列文章原刊载于谷歌黑板报，获得上百万次点击，得到读者高度评价。读者说，读了“数学之美”，才发现大学时学的数学知识，比如马尔可夫链、矩阵..."
+  }
+]
